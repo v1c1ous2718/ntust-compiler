@@ -1,0 +1,10 @@
+*.o
+*.class
+*.bak
+pdf/
+.claude/
+codegen/javaa/javaa
+codegen/compiler
+lex.yy.c
+y.tab.c
+y.tab.h
